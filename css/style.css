@@ -1,0 +1,24 @@
+body {
+    min-width:115px;
+    min-height:70px;
+    background-color: 	#F0FFFF;
+}
+
+#speed-list {
+	display: none;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.loading-img {
+  padding-left: 26px;
+}
+
+.title-align {
+  padding-left: 6px;
+  font-size: 20px;
+  color: green;
+  margin-top: 0px;
+}

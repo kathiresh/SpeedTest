@@ -1,0 +1,14 @@
+{
+  "name": "Speed Test",
+  "version": "0.1",
+  "manifest_version" : 2,
+  "description": "Know network Speed.",
+  "icons": { "16" : "images/icon.png", "48" : "images/icon.png"},
+  "homepage_url": "https://kathireshblog.wordpress.com/",
+        "background": "background.html",
+        "browser_action": {
+          "default_icon": "images/icon.png",
+          "default_title": "Speed Test",
+          "default_popup": "popup.html"
+        }
+}
